@@ -1,0 +1,7 @@
+docs/_build
+docs/xml
+docs/inc
+__pycache__/
+.vscode/
+.project
+make.sh
