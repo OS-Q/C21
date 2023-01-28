@@ -1,7 +1,7 @@
 ﻿# [BF5823AM48](https://doc.soc.xin/BF5823AM48)
 
 * [BYDmicro](http://www.bydmicro.com/): [MCS-51](https://github.com/SoCXin/MCS-51)
-* [L1R1](https://github.com/SoCXin/Level): 32 MHz
+* [L1R1](https://github.com/SoCXin/Level): 12 MHz
 
 ## [简介](https://github.com/SoCXin/BF5823AM48/wiki)
 
