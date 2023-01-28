@@ -1,0 +1,37 @@
+{
+    "type":"SoC",
+    "name":"BF5823AM48",
+    "title": "BYD BF5823AM48 SoC",
+    "description":"BYD DoorLock SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"MCS-51",
+        "Fmax":12,
+        "DMIPS": 40,
+        "CoreMark": 85
+    },
+    "manufacturer": {
+        "vendor":"BYD",
+        "homepage":"http://www.bydmicro.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/BF5823AM48.git"
+    },
+    "version":"1.0.0",
+    "series":["BF5823AM48"],
+    "package":["QFN48"],
+    "peripheral": ["ADC","UART","SPI","IIC"],
+    "temp": [-40,125],
+    "volt": [2.5,5.5],
+    "ESD": {
+        "HBM": 4000,
+        "CDM": 500
+    },
+    "keywords": [
+        "MCS-51",
+        "BYD",
+        "ADC","I2C","RFID","SPI","UART"
+    ]
+}
+
